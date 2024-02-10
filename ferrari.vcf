@@ -1,0 +1,36 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:;Ferrari;; ;
+FN: Ferrari
+ORG:
+COMPANY:
+TITLE:Italian excellence since 1947.
+
+ADR;CHARSET=UTF-8;TYPE=WORK:;;;Maronello;;;Italy
+TEL;TYPE=Work,pref:
+TEL;CELL;TYPE=Mobile,VOICE:
+TEL;TYPE=WORK,VOICE:
+
+TEL;TYPE=Work,Fax:
+TEL;TYPE=Home,VOICE:
+TEL;TYPE=sms:
+URL;TYPE=Messenger:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=Email:
+URL;TYPE=Digital Business Card:
+
+
+URL;TYPE=Location:
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-100577018
+URL;TYPE=Website:
+URL;TYPE=Calendar:
+URL;TYPE=WhatsApp:
+
+
+
+
+PHOTO;ENCODING=b:iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAAAAACPAi4CAAAA2klEQVR42u3VsQsBARQGcH/L50qKlMskKaVsFhtltRhNt1qMSgallEmpEwuZnBSxuMjV9f0vBnLZ3L1s79ter37D66sXozAxBRRQQAEF/gbsEGRA7oCC91kuAT88ACssMNq/c3sBxjYkYH+NWRMVXwKYE6AnAZJsIHkQAOA5jZoE8NgHhgLgTlaRuUQHXNJJoBmhSKUPwC4wFQF+GTk3dBOPAcC1gTa5iHoDkh3Eba4EwCOPgrcRAJwDliMB2IIxEwHXLIoigGNABrAuBU6pHwB9LAoooIACkjwBfIon3EoxXfAAAAAASUVORK5CYII=
+NOTE;CHARSET=UTF-8:Ferrari, the epitome of automotive excellence, embodies passion, performance, and luxury. With a rich heritage rooted in racing heritage, each Ferrari is a masterpiece of engineering and design, promising an exhilarating driving experience like no other.
+
+END:VCARD
